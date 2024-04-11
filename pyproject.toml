@@ -5,7 +5,7 @@ description = "Some python excercises for understand concepts"
 authors = ["sdecandelario <sergio.decandelario@gmail.com>"]
 
 [tool.poetry.dependencies]
-python = "^3.11"
+python = "~3.11"
 
 [tool.poetry.dev-dependencies]
 
